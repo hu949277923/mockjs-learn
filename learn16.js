@@ -10,4 +10,4 @@ var data = Mock.mock({
     'regexp3': /\d{3}-\d{8}|\d{4}-\d{7}/
 })
 console.log(JSON.stringify(data)) // {"regexp1":"gP5","regexp2":"诲艈㉥","regexp3":"1005-0488700"}
-
+// mac test git
